@@ -1,11 +1,12 @@
-# Hi. I'm Michael Zargari
+# Hi. I'm Michael Zargari!
 
-## Master student of Environmental Data Science at the University of California, Santa Barbara (UCSB)
+## I am a master student of Environmental Data Science at the University of California, Santa Barbara (UCSB)
 
 - 📫 How to reach me: mzargari@bren.ucsb.edu
 - 💻 My personal website: ...
 
-## What am I up these days
+## What am I up to these days?
+I am working towards my Master's degree and hanging out in Santa Barbara. I enjoy hiking, nature, and clean datasets.
 
 
 ## Experience
