@@ -3,7 +3,7 @@
 ## I am a master student of Environmental Data Science at the University of California, Santa Barbara (UCSB)
 
 - 📫 How to reach me: mzargari@bren.ucsb.edu
-- 💻 My personal website: ...
+- 💻 My personal website: mzargari.github.io
 
 ## What am I up to these days?
 I am working towards my Master's degree and hanging out in Santa Barbara. I enjoy hiking, nature, and clean datasets.
