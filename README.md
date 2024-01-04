@@ -3,7 +3,7 @@
 ## Welcome to my Github. Feel free to look around!
 
 - 📫 How to reach me: mzargari@bren.ucsb.edu
-- 💻 My personal website: mzargari.github.io
+- 💻 My personal website: [mzargari.github.io](url)
 
 #### Have a Great Day!
 
